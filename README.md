@@ -179,5 +179,3 @@ This notebook provides a practical comparison of **Bagging Classifier** and **Ra
 By implementing and evaluating both models, it demonstrates how Random Forest extends the Bagging approach through random feature selection, often resulting in better predictive performance and stronger generalization.
 
 This project serves as an excellent learning resource for anyone studying ensemble learning and tree-based machine learning algorithms.
-
----

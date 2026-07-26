@@ -181,5 +181,3 @@ By implementing and evaluating both models, it demonstrates how Random Forest ex
 This project serves as an excellent learning resource for anyone studying ensemble learning and tree-based machine learning algorithms.
 
 ---
-
-## ⭐ If you found this notebook helpful, consider giving it an upvote!
